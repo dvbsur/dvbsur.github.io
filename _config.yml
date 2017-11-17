@@ -1,25 +1,24 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
+title: DVBR - Brandschutz und Rettung
+description: "Beratung und Prüfung von Brandschutz und Arbeitssicherheit in Unternehmen"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
-logo_url: svg/min/logo.svg
+logo_url: img/logo.svg
 
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_title: DV für Brandschutz und Rettung
+    hero_description: Brandschutz und Rettung
 
 # Contact form
 api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
-    emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    phone:  089 954537619 
+    email: info@dvbr.org
+    address: DVBR, Hagweg 112,  82024 Taufkirchen, DE
 
 # Opening hours
 monday_friday: 9:00 – 18:00
@@ -33,8 +32,8 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
-    address_details: svg/min/logo.svg
+    address: DVBR, Hagweg 112,  82024 Taufkirchen, DE
+    address_details: img/logo.svg
 
 # Social settings
 facebook: http://facebook.com
@@ -45,7 +44,7 @@ skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2017 DVBR - All rights reserved
 
 # Build settings
 markdown: kramdown
